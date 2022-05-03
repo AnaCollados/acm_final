@@ -1,2 +1,1 @@
-# acm_final
-Advanced Cognitive Model - Final
+# Advanced Cognitive Model - Final
